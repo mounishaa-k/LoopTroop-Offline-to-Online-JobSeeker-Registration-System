@@ -1,7 +1,7 @@
-# 🚀 FareTrack  
+# 🚀 FairTrack  
 ### Offline-to-Online Jobseeker Registration System
 
-FareTrack is an **offline-first mobile application** that enables instant jobseeker registration at job fairs using resume scanning, OCR, and seamless cloud synchronization.
+FairTrack is an **offline-first mobile application** that enables instant jobseeker registration at job fairs using resume scanning, OCR, and seamless cloud synchronization.
 
 ---
 
@@ -9,13 +9,13 @@ FareTrack is an **offline-first mobile application** that enables instant jobsee
 
 At job fairs and walk-ins, many jobseekers lack internet access or smartphones, making digital registration slow or impossible. Manual data entry is time-consuming and inefficient.
 
-FareTrack solves this by enabling **fast, offline registration with later online synchronization**.
+FairTrack solves this by enabling **fast, offline registration with later online synchronization**.
 
 ---
 
 ## 💡 Solution Overview
 
-FareTrack allows volunteers to:
+FaieTrack allows volunteers to:
 
 - 📷 Scan resumes using mobile camera  
 - 🤖 Extract data using OCR (Google ML Kit)  
